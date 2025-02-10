@@ -1,9 +1,10 @@
 {
   "name": "fsd-generator",
-  "displayName": "FSDGenerator",
+  "displayName": "FSD Structure Generator",
   "description": "Simple generator for FSD projects",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "Reddnax",
+  "icon": "public/icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/Reddnaxx/fsd-generator.git"
