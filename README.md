@@ -41,10 +41,14 @@ None at the moment.
 
 ## Release Notes
 
-### 0.1.0
+### 0.0.1
 
 - Initial release
 - Basic FSD structure generation
+
+### 0.0.2
+
+- Image update
 
 ## Contributing
 
