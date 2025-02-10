@@ -3,6 +3,11 @@
   "displayName": "FSDGenerator",
   "description": "Simple generator for FSD projects",
   "version": "0.0.1",
+  "publisher": "Reddnax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Reddnaxx/fsd-generator.git"
+  },
   "engines": {
     "vscode": "^1.97.0"
   },
